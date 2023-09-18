@@ -1,8 +1,6 @@
 # brazil-ecomm-seller-analysis
 Seller Analysis on E-Commerce Websiite (Pacmann Project)
 
-# Project Name
-
 **Project Description:** This project focuses on analyzing and visualizing data from an e-commerce platform to address three key business objectives:
 
 1. **Top 10 Seller and Their Performance Over Time:** Explore the performance of the top 10 sellers on the platform and analyze how their performance has evolved over time.
